@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
+  "modid": "chutes",
+  "name": "Chutes",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Lykrast"],
+  "credits": "therealfarfetchd for the AABBArray class",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

@@ -1,0 +1,4 @@
+#PARSE_ESCAPES
+#Start
+tile.chutes.chute.name=Chute
+tile.chutes.chute_entry.name=Entry Chute
