@@ -55,6 +55,7 @@ public class Chutes {
 		itemBlocks = new ArrayList<>();
 		
 		chute = registerBlock(registry, new BlockChute(1.0F, 10.0F), "chute", CreativeTabs.REDSTONE);
+		chuteEntry = registerBlock(registry, new BlockChuteEntry(1.0F, 10.0F), "chute_entry", CreativeTabs.REDSTONE);
 	}
 	
 	@SubscribeEvent
@@ -76,6 +77,7 @@ public class Chutes {
 	@SideOnly(Side.CLIENT)
 	public static void registerModels(ModelRegistryEvent evt) {
 		initModel(chute);
+		initModel(chuteEntry);
 		
 		for (Item i : itemBlocks) initModel(i);
 	}
