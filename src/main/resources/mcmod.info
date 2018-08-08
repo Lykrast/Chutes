@@ -2,7 +2,7 @@
 {
   "modid": "chutes",
   "name": "Chutes",
-  "description": "Example placeholder mod.",
+  "description": "Hollow vertical blocks to funnel dropped items or other entities.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
