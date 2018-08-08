@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": { "model": "chutes:chute_entry" },
-        "facing=south": { "model": "chutes:chute_entry", "y": 180 },
-        "facing=west":  { "model": "chutes:chute_entry", "y": 270 },
-        "facing=east":  { "model": "chutes:chute_entry", "y": 90 }
-    }
-}

@@ -2,10 +2,7 @@
 	"parent": "block/block",
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"side": "chutes:blocks/chute_side",
-		"top": "chutes:blocks/chute_top",
-		"inside": "chutes:blocks/chute_inside",
-		"particle": "chutes:blocks/chute_side"
+        "particle": "#side"
 	},
 	"elements": [
 		{

@@ -54,8 +54,8 @@ public class Chutes {
 		IForgeRegistry<Block> registry = event.getRegistry();
 		itemBlocks = new ArrayList<>();
 		
-		chute = registerBlock(registry, new BlockChute(1.0F, 10.0F), "chute", CreativeTabs.REDSTONE);
-		chuteEntry = registerBlock(registry, new BlockChuteEntry(1.0F, 10.0F), "chute_entry", CreativeTabs.REDSTONE);
+		chute = registerBlock(registry, new BlockChute(1.0F, 10.0F), "chute_wood", CreativeTabs.REDSTONE);
+		chuteEntry = registerBlock(registry, new BlockChuteEntry(1.0F, 10.0F), "chute_entry_wood", CreativeTabs.REDSTONE);
 	}
 	
 	@SubscribeEvent

@@ -1,0 +1,8 @@
+{
+    "parent": "chutes:block/chute_entry",
+    "textures": {
+		"side": "chutes:blocks/chute_side",
+		"top": "chutes:blocks/chute_top",
+		"inside": "chutes:blocks/chute_inside"
+    }
+}
