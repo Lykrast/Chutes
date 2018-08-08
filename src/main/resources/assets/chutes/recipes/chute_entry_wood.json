@@ -1,0 +1,11 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"C C",
+		" C "
+	],
+	"key": {
+		"C": { "item": "chutes:chute_wood" }
+	},
+	"result": { "item": "chutes:chute_entry_wood", "count": 4 }
+}
