@@ -1,2 +1,2 @@
-# Chutes [![Curseforge](http://cf.way2muchnoise.eu/chutes.svg)](https://minecraft.curseforge.com/projects/chutes) [![Curseforge](http://cf.way2muchnoise.eu/versions/chutes.svg)](https://minecraft.curseforge.com/projects/chutes) [![Curseforge](http://cf.way2muchnoise.eu/packs/chutes.svg)](https://minecraft.curseforge.com/projects/chutes)
+# Chutes [![Curseforge](http://cf.way2muchnoise.eu/chutes.svg)](https://www.curseforge.com/minecraft/mc-mods/chutes) [![Curseforge](http://cf.way2muchnoise.eu/versions/chutes.svg)](https://www.curseforge.com/minecraft/mc-mods/chutes) [![Curseforge](http://cf.way2muchnoise.eu/packs/chutes.svg)](https://www.curseforge.com/minecraft/mc-mods/chutes)
 Minecraft mod that adds blocks to funnel falling items.
